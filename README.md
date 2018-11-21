@@ -30,3 +30,6 @@ Textures and other assets can be updated rather easy by pushing new versions to 
 ## Collaborations:
 We aim to collaborate mostly through prefabs and only bring everything together once each person’s respective workload is encapsulated within a prefab successfully. Timelines should allow us to do some splitting up when it comes to the final animation however we will have to be cautious as we don’t know for sure how these objects work. Work will be distributed evenly based on the storyboard and we will pick up slack for members that are not active in the group.
 
+## Material Pipeline
+
+There are so few materials in this project that a VERY simple material pipeline is appropriate. Essentailly there are the plastics, the board, the mice, and the cheese. For each of these we simply played around with their values starting from known values we could find online. We label each material with what it represents in the scene which is appropriate considering how few of them there truly are.
