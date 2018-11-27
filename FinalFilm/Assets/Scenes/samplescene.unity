@@ -479,7 +479,7 @@ Light:
   serializedVersion: 8
   m_Type: 1
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 5.06
+  m_Intensity: 3.88
   m_Range: 10
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -601,7 +601,7 @@ MonoBehaviour:
   useOldInspector: 0
   featuresFoldout: 1
   showAdditionalSettings: 0
-  displayLightIntensity: 5.06
+  displayLightIntensity: 3.88
   displayAreaLightEmissiveMesh: 0
 --- !u!1001 &2070672800
 Prefab:
@@ -752,7 +752,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 687b281a011b74172ba076b35a692a12, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 100010, guid: 687b281a011b74172ba076b35a692a12, type: 3}
       propertyPath: m_IsActive
@@ -782,6 +782,14 @@ Prefab:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 471a6ee8273074a2391a2ac33369a4bb, type: 2}
+    - target: {fileID: 2300006, guid: 687b281a011b74172ba076b35a692a12, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d36ebd85ab6f942f19f792e88a3c67c8, type: 2}
+    - target: {fileID: 2300000, guid: 687b281a011b74172ba076b35a692a12, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 91930ee29cfdb4468b794640c6027acb, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 687b281a011b74172ba076b35a692a12, type: 3}
   m_IsPrefabAsset: 0
