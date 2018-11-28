@@ -290,8 +290,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1297650280}
-  m_LocalRotation: {x: -0.0007596554, y: -0.98086625, z: 0.0038264324, w: -0.19464368}
-  m_LocalPosition: {x: -0.085505486, y: -1.2678933, z: -0.3916788}
+  m_LocalRotation: {x: 0.0071094777, y: -0.6957427, z: 0.006886917, w: 0.718223}
+  m_LocalPosition: {x: 0.43055058, y: -1.3314233, z: -0.94983673}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -469,20 +469,20 @@ Prefab:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 1361726172092756, guid: 5dc781dabb07c124a99dfe4797937ae6, type: 2}
-      propertyPath: m_Name
-      value: EndParent2
-      objectReference: {fileID: 0}
-    - target: {fileID: 320995843235378470, guid: 5dc781dabb07c124a99dfe4797937ae6,
-        type: 2}
-      propertyPath: m_SceneBindings.Array.data[1].value
-      value: 
-      objectReference: {fileID: 1297650286}
     - target: {fileID: 320991168753868258, guid: 5dc781dabb07c124a99dfe4797937ae6,
         type: 2}
       propertyPath: m_SceneBindings.Array.data[1].value
       value: 
       objectReference: {fileID: 1297650286}
+    - target: {fileID: 320995843235378470, guid: 5dc781dabb07c124a99dfe4797937ae6,
+        type: 2}
+      propertyPath: m_SceneBindings.Array.data[1].value
+      value: 
+      objectReference: {fileID: 1297650286}
+    - target: {fileID: 1361726172092756, guid: 5dc781dabb07c124a99dfe4797937ae6, type: 2}
+      propertyPath: m_Name
+      value: EndParent2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5dc781dabb07c124a99dfe4797937ae6, type: 2}
   m_IsPrefabAsset: 0
