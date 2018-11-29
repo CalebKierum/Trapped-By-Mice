@@ -73,9 +73,9 @@ public class FixBands : MonoBehaviour
             copy.transform.eulerAngles = transf.eulerAngles;
 
             fancyParent parent = copy.GetComponent<fancyParent>();
-            parent.parent = transf;
+            parent.parent = transf;*/
 
-            transf.gameObject.SetActive(false);*/
+            transf.gameObject.SetActive(false);
 
             return;
             
