@@ -19,7 +19,6 @@ Material:
   - TransparentDepthPrepass
   - TransparentDepthPostpass
   - TransparentBackface
-  - MOTIONVECTORS
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -152,7 +151,7 @@ Material:
     - _EnableBlendModePreserveSpecularLighting: 1
     - _EnableFogOnTransparent: 1
     - _EnableGeometricSpecularAA: 0
-    - _EnableMotionVectorForVertexAnimation: 0
+    - _EnableMotionVectorForVertexAnimation: 1
     - _EnableSpecularOcclusion: 0
     - _EnableWind: 0
     - _EnergyConservingSpecularColor: 1
@@ -217,8 +216,8 @@ Material:
     - _ZTestModeDistortion: 4
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.7216981, g: 0.90835774, b: 1, a: 1}
-    - _Color: {r: 0.7216981, g: 0.90835774, b: 1, a: 1}
+    - _BaseColor: {r: 0.29036134, g: 0.36085683, b: 0.8207547, a: 1}
+    - _Color: {r: 0.29036132, g: 0.3608568, b: 0.8207547, a: 1}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissiveColor: {r: 0, g: 0, b: 0, a: 1}
