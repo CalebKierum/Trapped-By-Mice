@@ -15,7 +15,7 @@ Please use prefabs
 Open the Unity Scene found in LightweightTester and press play.
 
 ### Watch on Youtube
-[![Youtube Link](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=-tqM7DWqZbk)
+[![Youtube Link](https://img.youtube.com/vi/-tqM7DWqZbk/0.jpg)](https://www.youtube.com/watch?v=-tqM7DWqZbk)
 
 ## Pipeline
 
