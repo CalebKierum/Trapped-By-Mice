@@ -14,6 +14,9 @@ Please use prefabs
 ## To play the animation
 Open the Unity Scene found in LightweightTester and press play.
 
+### Watch on Youtube
+[![Youtube Link](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=-tqM7DWqZbk)
+
 ## Pipeline
 
 In order to provide the highest visual fidelity and allow us to mess with fancier materials that perform better with global illumination and support sub-surface scattering we will use the HD render pipeline.
