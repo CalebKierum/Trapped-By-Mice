@@ -1,15 +1,9 @@
 # Trapped-By-Mice
 Unity Version: Unity 2018.2.7f1
 
-## Git Repository Organization
-All unity Assets go in the Unity asssets folder
-Images for reference go under reference 
-Only git related files are not under folders
+This is the Unity project for a realtime rendition of a short film titled "Trapped By Mice" the original team built this film in Maya and I exported their assets into Unity so that the film could be rendered in realtime. Materials and lighting were not imported from Maya and were re-done in Unity.
 
-## Unity Project Organization
-All assets go in correspondingly labeled folder - material files go in the Materials folder, etc.
-Store objects in hierarchy under correctly labeled empty object
-Please use prefabs
+This was an exercise preparing me for future projects in VR film-making using Unity.
 
 ## To play the animation
 Open the Unity Scene found in LightweightTester and press play.
